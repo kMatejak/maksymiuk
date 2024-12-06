@@ -1,5 +1,5 @@
 ---
-title: Galleries Deluxe
+title: Anna Maksymiuk
 linkTitle: Home
 ---
 

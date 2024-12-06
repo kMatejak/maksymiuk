@@ -1,4 +1,4 @@
-baseURL = "https://galleriesdeluxe.netlify.app/"
+baseURL = "https://kmatejak.github.io/maksymiuk"
 
 [taxonomies]
     category = 'categories'
@@ -10,9 +10,9 @@ baseURL = "https://galleriesdeluxe.netlify.app/"
 
 [params]
     [params.author]
-        name        = "Bjørn Erik Pedersen"
-        email       = "bjorn.erik.pedersen@gmail.com"
-        description = "A Hugo gallery website"
+        name        = "Anna Maksymiuk"
+        email       = "kris.p@tuta.com"
+        description = "Fotografia reportażowa, sesje, zdjęcia ślubne"
 
     [params.galleriesdeluxe]
         # One of dartsass or libsass.
@@ -34,4 +34,4 @@ baseURL = "https://galleriesdeluxe.netlify.app/"
         target = "content"
 
     [[module.imports]]
-        path = "github.com/bep/galleriesdeluxe"
+        path = "github.com/kMatejak/maksymiuk"

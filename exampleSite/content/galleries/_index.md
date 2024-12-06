@@ -1,3 +1,3 @@
 ---
-title: Galleries
+title: Galerie
 ---
